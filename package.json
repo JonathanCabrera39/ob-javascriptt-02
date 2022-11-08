@@ -1,0 +1,18 @@
+{
+  "name": "ob-primer",
+  "version": "1.0.0",
+  "description": "ob-primer-proyecto-01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "hola": "Hola, desde este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ob-primer",
+    "first",
+    "project"
+  ],
+  "author": "jonathan cabrera",
+  "license": "ISC"
+}
